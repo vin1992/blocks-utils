@@ -1,6 +1,6 @@
 {
   "name": "type",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "description": "类型判断lib",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,5 @@
     "url": "https://github.com/vin1992/blocks-utils/issues"
   },
   "homepage": "https://github.com/vin1992/blocks-utils#readme",
-  "gitHead": "79377e0af4bf1fc49e70ec38e04d9df384bf1933"
+  "gitHead": "fa8c7a8647a0c43fd5ba47d788427b91dab106b5"
 }
