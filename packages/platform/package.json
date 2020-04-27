@@ -1,0 +1,28 @@
+{
+  "name": "platform",
+  "version": "1.0.1",
+  "description": "终端环境检测lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vin1992/blocks-utils.git"
+  },
+  "keywords": [
+    "enviroment",
+    "platfrom",
+    "testing",
+    "isApp",
+    "isWx",
+    "isAndriod",
+    "isIOS"
+  ],
+  "author": "vin_coder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vin1992/blocks-utils/issues"
+  },
+  "homepage": "https://github.com/vin1992/blocks-utils#readme"
+}
