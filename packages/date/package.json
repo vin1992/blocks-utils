@@ -1,6 +1,6 @@
 {
   "name": "date-helper",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "日历组件常用方法合集",
   "main": "index.js",
   "scripts": {
