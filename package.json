@@ -1,7 +1,7 @@
 {
-  "name": "platform",
-  "version": "1.0.1",
-  "description": "终端环境检测lib",
+  "name": "blocks-utils",
+  "version": "1.0.0",
+  "description": "个人项目+学习积累的一些常用工具集",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,13 +11,10 @@
     "url": "git+https://github.com/vin1992/blocks-utils.git"
   },
   "keywords": [
-    "enviroment",
-    "platfrom",
-    "testing",
-    "isApp",
-    "isWx",
-    "isAndriod",
-    "isIOS"
+    "tools",
+    "utils",
+    "libs",
+    "base-libs"
   ],
   "author": "vin_coder",
   "license": "MIT",
@@ -25,5 +22,7 @@
     "url": "https://github.com/vin1992/blocks-utils/issues"
   },
   "homepage": "https://github.com/vin1992/blocks-utils#readme",
-  "gitHead": "ee6a63fb515675db8b81c0799f2adb671b2651b2"
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
 }
