@@ -1,6 +1,6 @@
 {
   "name": "platform",
-  "version": "1.0.20",
+  "version": "1.0.22",
   "description": "终端环境检测lib",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,5 @@
     "url": "https://github.com/vin1992/blocks-utils/issues"
   },
   "homepage": "https://github.com/vin1992/blocks-utils#readme",
-  "gitHead": "912be328db5454aac9850a770fe75c5e6d49da6f"
+  "gitHead": "da059af25b1ffaeee807632fbd5a933bc8b6379a"
 }
