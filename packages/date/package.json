@@ -1,10 +1,13 @@
 {
   "name": "@vin_coder/date-helper",
-  "version": "1.1.28",
+  "version": "1.1.29",
   "description": "日历组件常用方法合集",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -24,5 +27,5 @@
     "url": "https://github.com/vin1992/blocks-utils/issues"
   },
   "homepage": "https://github.com/vin1992/blocks-utils#readme",
-  "gitHead": "64a6b5976832ed126ea5b92b5845450ca3e971fb"
+  "gitHead": "5b88afaa9463bd0ab00bf644b70152c8efa55b85"
 }
