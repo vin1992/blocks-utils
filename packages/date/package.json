@@ -1,6 +1,6 @@
 {
   "name": "date-helper",
-  "version": "1.1.20",
+  "version": "1.1.21",
   "description": "日历组件常用方法合集",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,5 @@
     "url": "https://github.com/vin1992/blocks-utils/issues"
   },
   "homepage": "https://github.com/vin1992/blocks-utils#readme",
-  "gitHead": "fe83301faef204f4eee9990d8b6f1aa430d47e10"
+  "gitHead": "13a6c7a8dc21a6f1ee60426ae43294d5fe6e982b"
 }
