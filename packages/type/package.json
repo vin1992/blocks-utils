@@ -1,6 +1,6 @@
 {
   "name": "@vin_coder/type",
-  "version": "1.0.34",
+  "version": "1.0.35",
   "description": "类型判断lib",
   "main": "index.js",
   "scripts": {
