@@ -1,5 +1,5 @@
 {
-  "name": "vin-type",
+  "name": "@vin_coder/type",
   "version": "1.0.34",
   "description": "类型判断lib",
   "main": "index.js",

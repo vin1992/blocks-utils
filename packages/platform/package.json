@@ -1,5 +1,5 @@
 {
-  "name": "vin-platform",
+  "name": "@vin_coder/platform",
   "version": "1.0.34",
   "description": "终端环境检测lib",
   "main": "index.js",

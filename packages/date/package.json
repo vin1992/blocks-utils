@@ -1,5 +1,5 @@
 {
-  "name": "vin-date-helper",
+  "name": "@vin_coder/date-helper",
   "version": "1.1.26",
   "description": "日历组件常用方法合集",
   "main": "index.js",
