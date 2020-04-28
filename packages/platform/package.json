@@ -1,6 +1,6 @@
 {
   "name": "vin-platform",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "description": "终端环境检测lib",
   "main": "index.js",
   "scripts": {
