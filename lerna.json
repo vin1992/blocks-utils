@@ -4,8 +4,8 @@
   "packages": ["packages/*"],
   "command": {
     "publish": {
-      "ignoreChanges": ["*.md"],
-      "message": "chore(release): 已发布"
+      "verifyAccess": false,
+      "message": "chore(release): 发布成功～"
     }
   }
 }

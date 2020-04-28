@@ -1,0 +1,8 @@
+34 error Error: Command failed: git add -- packages/type/package.json packages/date/package.json packages/platform/package.json
+34 error error: insufficient permission for adding an object to repository database .git/objects
+34 error error: packages/date/package.json: failed to insert into database
+34 error error: unable to index file 'packages/date/package.json'
+34 error fatal: updating files failed
+34 error
+34 error     at makeError (/usr/local/share/.config/yarn/global/node_modules/execa/index.js:174:9)
+34 error     at Promise.all.then.arr (/usr/local/share/.config/yarn/global/node_modules/execa/index.js:278:16)
